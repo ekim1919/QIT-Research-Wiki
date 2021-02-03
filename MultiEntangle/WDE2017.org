@@ -1,0 +1,45 @@
+#+TITLE: WDE2017 (Multi-paritite Entanglement)
+
+* Equivalences of classes of multipartite entangled states.
+    - [[https://arxiv.org/pdf/0909.5152.pdf][Local unitary equivalence of multipartite pure states (Kraus)]]
+    - [[https://arxiv.org/pdf/1210.4583.pdf][Everything You Always Wanted to Know About LOCC(But Were Afraid to Ask) (Chitambar et al)]]
+
+** SLOCC-equivalence classes through invariants
+*** Cayley Hyper-determinant
+    - [[https://arxiv.org/pdf/quant-ph/0206111.pdf][Classification of multipartite entangled states by multidimensional determinants (Miyake)]]
+*** Invariants through homogeneous polynomials
+    - [[https://arxiv.org/pdf/1304.7259.pdf][Classification of multipartite entanglement in all dimensions (Gour, Wallach)]]
+*** Monogamy of Entanglement
+    - [[https://arxiv.org/pdf/quant-ph/9907047.pdf][Distributed Entanglement (Coffman et al.)]]
+*** Infinite classes for 4-qubit systems
+    - [[https://arxiv.org/pdf/quant-ph/0109033.pdf][Four qubits can be entangled in nine different ways. (Verstrate et al.)]]
+
+
+* Asymptotic manipulation of pure multipartite entanglement
+
+** Minimial reversible entanglement generating set (MREGS)
+*** For tripartite state
+- [[https://static1.squarespace.com/static/54563869e4b07b34ee649b68/t/54cfc16ee4b0aaa4b1486791/1422901614622/083.+art%253A10.1007%252Fs11128-005-4608-0.pdf][Reversibility of Local Transformations of Multiparticle Entanglement (Linden et al.)]]
+- [[https://arxiv.org/pdf/quant-ph/0202056.pdf][On the structure of a reversible entanglement generating set for three–partite states (Acin et al.)]]
+
+*** Conversion rates from GHZ state from Geometric Complexity
+- [[https://arxiv.org/pdf/0805.2977.pdf][Tripartite entanglement transformations and tensor rank (Chtambar et al.)]]
+- [[https://arxiv.org/pdf/1603.03757.pdf][Nondeterministic quantum communication complexity:the cyclic equality game and iterated matrix multiplication (Buhrman)]]
+- [[https://arxiv.org/pdf/1310.3244.pdf][Asymptotic entanglement transformation between W and GHZ states (Vrana, Christandl)]]
+
+* Entanglement Measures
+
+** Geometric Measure
+- [[https://arxiv.org/pdf/quant-ph/0307219.pdf][Geometric measure of entanglement and applicationsto bipartite and multipartite quantum states (Wei, Goldbart)]]
+
+** Hierarchies of Separability for Mixed States
+- [[https://arxiv.org/pdf/quant-ph/0407135.pdf][Complete hierarchies of efficient approximations to problems in entanglement theory (Eisert et al.)]]
+- [[https://arxiv.org/pdf/quant-ph/0112007.pdf][Distinguishing separable and entangled states (Doherty et al)]]
+- [[https://arxiv.org/pdf/quant-ph/9903018.pdf][Separability and distillability of multiparticle quantum systems (Dur et al) ]]
+- [[https://arxiv.org/pdf/quant-ph/9911044.pdf][Classification of multi–qubit mixed states:  separability and distillability properties (Dur et al)]]
+
+* More Invariants
+- [[https://arxiv.org/pdf/quant-ph/0506058.pdf][Algebraic invariants of five qubits (Luque, Thibon)]]
+
+* Non-locality
+- [[https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.65.1838][Extreme quantum entanglement in a superposition of macroscopically distinct states (Mermin)]]
